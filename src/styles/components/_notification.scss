@@ -1,0 +1,9 @@
+.notification{
+  position: fixed;
+  width: 30em;
+  z-index: 2060;
+  top: 1.5em;
+  margin: 0 0 0 -15em;
+  left: 50%;
+  box-shadow: 0 0 0 1px rgba(255,255,255,.5) inset,0 0 0 0 transparent;
+}

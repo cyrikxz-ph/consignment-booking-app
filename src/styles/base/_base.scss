@@ -1,0 +1,14 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background: $background-color;
+}
+
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.layout-container {
+  flex: 1
+}
